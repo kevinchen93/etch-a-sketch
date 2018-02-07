@@ -1,0 +1,41 @@
+body {
+	background: black;
+	font-family: Roboto, sans-serif;
+	font-size: 1.2em;
+	font-weight: lighter;
+}
+
+p {
+	color: #fff;
+	margin: 0 auto;
+}
+
+#container {
+	border: 7px solid #2196f3;
+	border-radius: 3px;
+	display:flex;
+ 	flex-wrap:wrap;
+}
+
+.square {
+	background-color:#fff;
+}
+
+.pencil {
+	background-color: hsl(0,0%,90%);
+}
+
+.default {
+	background-color:#ff0;
+}
+
+input {
+	font-size: 16px;
+	width: 30px;
+	text-align: center;
+}
+
+button {
+	border-radius: 4px;
+	font-size: 14px;
+}
