@@ -21,8 +21,7 @@ Skills I demonstrated or strengthened at project end: <br>
 -JavaScript <br>
 -Writing readable code <br>
 -Use of Chrome Developer Tools <br>
--Manipulating HTML elements through the use of the Document Object Model (DOM) <br>
-	-		Manipulating the `classList` and `style` properties of HTML elements <br>
+-Manipulating HTML elements through the use of the Document Object Model (DOM): Manipulating the `classList` and `style` properties of HTML elements <br>
 -Use of `if...else` statements <br>
 -Use of event handlers such as `addEventListener` and `removeEventListener` <br>
 -Familiarity with function scoping
