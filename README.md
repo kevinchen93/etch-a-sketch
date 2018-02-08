@@ -18,7 +18,7 @@ I will learn that later on in the curriculum.
 ### Future improvements
 -toggle mouse click event handler
 
-Skills I demonstrated or strengthened at project end: <br>   
+Skills I demonstrated or strengthened at project end:   
 -HTML <br>
 -CSS <br>
 -JavaScript <br>
