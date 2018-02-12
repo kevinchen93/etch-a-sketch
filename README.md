@@ -1,13 +1,13 @@
 # Etch A Sketch Project
 
-This purpose of this project was to build a sketchpad.
+This purpose of this project was to build a version of something between a sketchpad and an Etch-A-Sketch.
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/web-development-101/lessons/etch-a-sketch-project).
 
 
 ## Pre-Project Thoughts
 
-Note: At this point I only have basic HTML, CSS, JavaScript, Chrome Dev Tool, and Git skills.
+Note: At this point I only have basic HTML, CSS, JavaScript, Chrome Dev Tools, and Git skills.
 I will do my best!
 
 ## Post-Project Thoughts
